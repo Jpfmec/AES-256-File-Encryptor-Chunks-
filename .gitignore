@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Dependency directories
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Encrypted files (optional: don't version encrypted files)
+*.enc
+*.dec
+
+# IDE / Editor settings (VSCode, PyCharm)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyInstaller / Executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyd
+
+# Misc
+*.swp
+*.bak
+*.tmp
